@@ -13,6 +13,7 @@ $cooking = $session->init();
 	<meta charset="utf-8">
 	<!--<base href="http://ldc.spumanila.edu.dev" />-->
 	<title>Language Development Center</title>
+	<p>testing</p>
 	<link rel="stylesheet" href="/css/jquery-ui.min.css">
 	<link rel="stylesheet" href="/css/main.css">
 	<script src="/script/jquery-1.12.0.min.js"></script>
